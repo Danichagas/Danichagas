@@ -1,4 +1,4 @@
-### Olá! eu sou Daniel Chagas 👋
+### HellO World! Eu sou Daniel Chagas 👋
 
 - 💻Back-end Developer
 - 🔴Estudando Java
@@ -10,6 +10,8 @@
 
 
 ![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=ambient_gradient)
+
+## Skills ⚙
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
