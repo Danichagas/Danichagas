@@ -1,7 +1,8 @@
-### HellO World! Eu sou Daniel Chagas 👋
+### HellO World! I' am Daniel Chagas 👋
+📍- I'm 17 years old, I've always been passionate about technology, and when I discovered the world of programming, this passion only increased. I currently study Java and Spring Boot, I have always worked hard in my studies, so that I can achieve my dream position.
 
 - 💻Back-end Developer
-- 🔴Estudando Java
+- 🔴Studying Java
 - 👨‍🎓Sistemas de Informação | UFPA
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dani.chagasx/)
@@ -11,6 +12,9 @@
 
 ![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=ambient_gradient)
 
+🦾- Here on my GitHub you can see my main projects developed in Java and Spring Boot, MySQL, Hibernate and MongoDB, I will always be updating my profile with projects based on my knowledge in these technologies, and also my portfolio developed in HTML, CSS and JavaScript.
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danichagas/Danichagas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danichagas/Danichagas/output/github-contribution-grid-snake.svg">
@@ -19,7 +23,7 @@
 <br><br>
 
 
-## Skills ⚙
+## Technologies that I study and master ⚙
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +37,7 @@
           
 </div>
 
-## IDES que utilizo! ⚡
+## IDES that I use! ⚡
 
 <div style="display: inline_block"><br/>
   <img align:"center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
