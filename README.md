@@ -1,4 +1,4 @@
-### HellO World! I' am Daniel Chagas 👋
+### Hello World! I' am Daniel Chagas 👋
 📍- I'm 17 years old, I've always been passionate about technology, and when I discovered the world of programming, this passion only increased. I currently study Java and Spring Boot, I have always worked hard in my studies, so that I can achieve my dream position.
 
 - 💻Back-end Developer
