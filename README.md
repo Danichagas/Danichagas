@@ -5,7 +5,7 @@
 - 🔴Studying Java
 - 👨‍🎓Sistemas de Informação | UFPA
 
-![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=radical)
+![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danichagas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
