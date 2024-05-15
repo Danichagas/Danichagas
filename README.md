@@ -33,7 +33,7 @@ System.out.println("Welcome to my github!😆")
 
 
 ## My skills ⚙
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,mysql,mongodb,hibernate,eclipse,idea,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,mysql,mongodb,hibernate,git,github,eclipse,idea,vscode)](https://skillicons.dev)
 
 ## Contact me
 
