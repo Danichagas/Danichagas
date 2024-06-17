@@ -3,10 +3,10 @@
 System.out.println("Welcome to my github!😆")
 
 ```
-📍- I'm 17 years old, I've always been passionate about technology, and when I discovered the world of programming, this passion only increased. I currently study Java and Spring Boot, I have always worked hard in my studies, so that I can achieve my dream position.
+📍- I'm 17 years old, I've always been passionate about technology, and when I discovered the world of programming, this passion only increased. I currently study JavaScript and Node, I have always worked hard in my studies, so that I can achieve my dream position.
 
 - 💻Back-end Developer
-- 🔴Studying Java
+- 🔴Studying JavaScript and Node
 - 👨‍🎓Sistemas de Informação | UFPA
 
 ![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=tokyonight)
@@ -17,7 +17,7 @@ System.out.println("Welcome to my github!😆")
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Daniel Chagas and I am a Back-End Developer. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to get my first job and, in the future, become a Full Stack Developer.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Java, SprinBoot, MySQL, MongoDB, Hibernate.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, JavaScript, Node.js, React, Angular.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or sports? Send a message!
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [portfolio](https://danichagas.github.io/meu-portfolio/)!
@@ -29,7 +29,7 @@ System.out.println("Welcome to my github!😆")
 </picture>
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,mongodb,maven,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,nodejs,html,css,react,angular,git)](https://skillicons.dev)
 
 ## Contact me
 
