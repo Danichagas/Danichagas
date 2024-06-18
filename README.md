@@ -29,7 +29,7 @@ System.out.println("Welcome to my github!😆")
 </picture>
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,npm,react,angular,mysql,postgres,mongodb,html,css,java,spring,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,npm,react,angular,webpack,mysql,postgres,mongodb,html,css,java,spring,git)](https://skillicons.dev)
 
 ## Contact me
 
