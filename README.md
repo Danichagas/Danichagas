@@ -15,7 +15,7 @@ System.out.println("Welcome to my github!😆")
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Daniel Chagas and I am a Back-End Developer. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Daniel Chagas and I am a Full-Stack Developer. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to get my first job and, in the future, become a Full Stack Developer.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, JavaScript, Node.js, React, Angular.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
@@ -29,7 +29,7 @@ System.out.println("Welcome to my github!😆")
 </picture>
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,nodejs,typescript,html,css,react,angular,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,npm,react,angular,mysql,postgres,mongodb,html,css,java,spring,git)](https://skillicons.dev)
 
 ## Contact me
 
