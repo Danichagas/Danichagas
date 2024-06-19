@@ -1,12 +1,12 @@
-### Hello World! I' am Daniel Chagas 👋
+## Hello World! I' am Daniel Chagas 👋
 ```
-System.out.println("Welcome to my github!😆")
+console.log("Welcome to my github!😆");
 
 ```
-📍- I'm 17 years old, I've always been passionate about technology, and when I discovered the world of programming, this passion only increased. I currently study JavaScript and Node, I have always worked hard in my studies, so that I can achieve my dream position.
+🔰 - I'm 17 years old, I've always been passionate about technology, and when I discovered the world of programming, this passion only increased. I currently study JavaScript and Node, I have always worked hard in my studies, so that I can achieve my dream position.
 
 - 💻Back-end Developer
-- 🔴Studying JavaScript and Node
+- 🔴Studying JavaScript and Node.js
 - 👨‍🎓Sistemas de Informação | UFPA
 
 ![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=dark)
