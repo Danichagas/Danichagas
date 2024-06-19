@@ -9,8 +9,8 @@ System.out.println("Welcome to my github!😆")
 - 🔴Studying JavaScript and Node
 - 👨‍🎓Sistemas de Informação | UFPA
 
-![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danichagas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danichagas&layout=compact)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
