@@ -1,13 +1,13 @@
 ## Hello World! I' am Daniel Chagas 👋
 ```
-console.log("Welcome to my github!😆");
+console.log("Bem-vindo ao meu github!😆");
 
 ```
-🔰 - I'm 17 years old, I've always been passionate about technology, and when I discovered the world of programming, this passion only increased. I currently study JavaScript and Node, I have always worked hard in my studies, so that I can achieve my dream position.
+🔰 - Tenho 17 anos, sempre fui apaixonado por tecnologia, e quando descobri o mundo da programação essa paixão só aumentou. Atualmente estudo JavaScript e Node.js, sempre me esforcei muito em meus estudos, para poder realizar meu sonho de ser desenvolvedor e ajudar pessoas através da tecnologia.
 
-- 💻Back-end Developer
-- 🔴Studying JavaScript and Node.js
-- 👨‍🎓Sistemas de Informação | UFPA
+- 💻 Desenvolvedor Full-Stack
+- 🚀 Estudando JavaScript e Node.js
+- 👨‍🎓 Sistemas de Informação | UFPA
 
 ![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danichagas&layout=compact)
@@ -15,12 +15,12 @@ console.log("Welcome to my github!😆");
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Daniel Chagas and I am a Full-Stack Developer. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to get my first job and, in the future, become a Full Stack Developer.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main skills are HTML, CSS, JavaScript, Node.js, React, Angular.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or sports? Send a message!
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [portfolio](https://danichagas.github.io/meu-portfolio/)!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá, meu nome é Daniel, e eu sou desenvolvedor Full-Stack. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego e, no futuro, me tornar um Desenvolvedor.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas pricipaias habilidades são HTML, CSS, JavaScript, Typescript, Node.js, React, Angular, MySQL, MongoDB, PostegresSQL, Webpack.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Procuro sempre ser uma pessoa educada e respeitosa, e adoro interagir com novas pessoas e compartilhar minha história.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Quer falar sobre tecnologia, jogos ou esportes? Envie uma mensagem!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Veja meu [portfolio](https://danichagas.github.io/meu-portfolio/)!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danichagas/Danichagas/output/github-contribution-grid-snake-dark.svg">
@@ -31,7 +31,7 @@ console.log("Welcome to my github!😆");
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,npm,react,angular,webpack,mysql,postgres,mongodb,html,css,java,spring,git)](https://skillicons.dev)
 
-## Contact me
+## Contate-me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chagas-51a55b29b/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591984780983)
