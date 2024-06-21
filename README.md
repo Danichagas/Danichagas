@@ -9,7 +9,7 @@ console.log("Bem-vindo ao meu github!😆");
 - 🚀 Estudando JavaScript e Node.js
 - 👨‍🎓 Sistemas de Informação | UFPA
 
-![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=dark)
+![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danichagas&layout=compact)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
