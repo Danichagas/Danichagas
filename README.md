@@ -1,39 +1,193 @@
-## Hello World! I' am Daniel Chagas 👋
-```
-console.log("Bem-vindo ao meu github!😆");
+<h1 align="center">Olá 👋, Eu sou Daniel Chagas </h1>
+<h3 align="center">FullStack Developer, Universitário SI 👨‍🎓</h3>
 
-```
-🔰 - Tenho 17 anos, sempre fui apaixonado por tecnologia, e quando descobri o mundo da programação essa paixão só aumentou. Atualmente estudo JavaScript e Node.js, sempre me esforcei muito em meus estudos, para poder realizar meu sonho de ser desenvolvedor e ajudar pessoas através da tecnologia.
+- 🔭 Atualmente estou cursando Sistemas de Informação - [UFPA](https://github.com/codethi/breaking-news](https://sigaa.ufpa.br/sigaa/public/curso/curriculo.jsf?lc=pt_BR&id=148126))
 
-- 💻 Desenvolvedor Full-Stack
-- 🚀 Estudando JavaScript e Node.js
-- 👨‍🎓 Sistemas de Informação | UFPA
+- 🌱 Atualmente estou aprendendo **Node.js**
 
-![Danichagas GitHub stats](https://github-readme-stats.vercel.app/api?username=Danichagas&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danichagas&layout=compact)
+- 💬 Pergunte-me sobre **NodeJs, ReactJs, TypeScript, SQL e noSQL**
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+- 📫Como chegar até mim **chagasdaniel788@gmail.com**
 
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá, meu nome é Daniel, e eu sou desenvolvedor Full-Stack. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego e, no futuro, me tornar um Desenvolvedor.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas pricipaias habilidades são HTML, CSS, JavaScript, Typescript, Node.js, React, Angular, MySQL, MongoDB, PostegresSQL, Webpack.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Procuro sempre ser uma pessoa educada e respeitosa, e adoro interagir com novas pessoas e compartilhar minha história.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Quer falar sobre tecnologia, jogos ou esportes? Envie uma mensagem!
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Veja meu [portfolio](https://danichagas.github.io/meu-portfolio/)!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danichagas/Danichagas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danichagas/Danichagas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Danichagas/Danichagas/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,npm,react,angular,webpack,mysql,postgres,mongodb,html,css,java,spring,git)](https://skillicons.dev)
-
-## Contate-me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chagas-51a55b29b/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591984780983)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+- ⚡ Curiosidade **amo jogar vôlei🏐**
+<hr/>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/daniel-chagas-51a55b29b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dani.chagasx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thi.code" height="30" width="40" /></a>
+</p>
+<hr/>
+<h3 align="left">Todas as linguagens e ferramentas:</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          height="40"
+          alt="javascript logo"
+        />
+        <img width="12" /> Javascript
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> Typescript
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+          height="40"
+          alt="nodejs logo"
+        />
+        <img width="12" /> Node.js
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=express"
+          height="40"
+          alt="express logo"
+        />
+        <img width="12" /> Express
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          height="40"
+          alt="react logo"
+        />
+        <img width="12" /> React
+      </td>
+      <td>
+        <img
+          src="https://angular.io/assets/images/logos/angular/angular.svg"
+          alt="angular"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Angular
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=nextjs"
+          height="40"
+          alt="nextjs logo"
+        />
+        <img width="12" /> Next.js
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+          height="40"
+          alt="html5 logo"
+        />
+        <img width="12" /> HTML
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          height="40"
+          alt="css3 logo"
+        />
+        <img width="12" /> CSS
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+          height="40"
+          alt="webpack logo"
+        />
+        <img width="12" /> Webpack
+      </td>
+      <td>
+        <img
+          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+          height="40"
+          alt="tailwindcss logo"
+        />
+        <img width="12" /> Tailwindcss
+      </td>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+          alt="bootstrap"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Bootstrap
+      </td>
+      <td>
+        <img
+          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+          alt="figma"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Figma
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          height="40"
+          alt="git logo"
+        />
+        <img width="12" /> Git
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          height="40"
+          alt="docker logo"
+        />
+        <img width="12" /> Docker
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=github"
+          height="40"
+          alt="github logo"
+        />
+        <img width="12" /> GitHub
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+          height="40"
+          alt="postgresql logo"
+        />
+        <img width="12" /> Postgresql
+      </td>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+          alt="mysql"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> MySQL
+      </td>
+      <tr></tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          height="40"
+          alt="mongodb logo"
+        />
+        <img width="12" /> MongoDB
+      </td>
+      <td>
+        <img
+          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          height="40"
+          alt="vscode logo"
+        />
+        <img width="12" /> Visual Studio Code
+      </td>
+    </tr>
+  </tbody>
+</table>
