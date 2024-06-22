@@ -182,6 +182,24 @@
       </td>
       <td>
         <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          alt="java"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Java
+      </td>
+      <td>
+        <img
+          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+          alt="spring"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Spring Boot
+      </td>
+      <td>
+        <img
           src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
           height="40"
           alt="vscode logo"
