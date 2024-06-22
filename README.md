@@ -1,5 +1,5 @@
-# Olá 👋, Eu sou Daniel Chagas
-<h3>FullStack Developer, Universitário SI 👨‍🎓</h3>
+<h1 align="center">Olá 👋, Eu sou Daniel Chagas</h1>
+<h3 align="center">FullStack Developer, Universitário SI 👨‍🎓</h3>
 <hr>
 
 - 🔭 Atualmente estou cursando Sistemas de Informação - [UFPA](https://github.com/codethi/breaking-news](https://sigaa.ufpa.br/sigaa/public/curso/curriculo.jsf?lc=pt_BR&id=148126))
