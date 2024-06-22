@@ -1,5 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Daniel Chagas </h1>
 <h3 align="center">FullStack Developer, Universitário SI 👨‍🎓</h3>
+<img align="center"
+src="http://www.avatarsinpixels.com/minipix/eyJNb3V0aCI6IjciLCJTb2NrcyI6IjgiLCJTaG9lcyI6IjEiLCJQYW50cyI6IjMiLCJUb3AiOiI1IiwiSmFja2V0IjoiMSIsIkdsYXNzZXMiOiIyIiwiSGF0IjoiNSIsInNraW5Ub25lIjoiN2EzODBjIiwiZXllc1RvbmUiOiIwMDAwMDAiLCJwYW50c1RvbmUiOiJmZmZmZmYiLCJwYW50c1RvbmUyIjoiOWU5ZTllIiwidG9wVG9uZSI6ImZmZmZmZiIsInNob2VzVG9uZSI6ImJhZGJlZCIsImhhdFRvbmUiOiJmZmZmZmYiLCJoYXRUb25lMiI6ImIzYjNiMyIsImphY2tldFRvbmUiOiIwMDAwMDAiLCJqYWNrZXRUb25lMiI6ImZmZmZmZiJ9/1/show.png" width="110px"/>
 
 - 🔭 Atualmente estou cursando Sistemas de Informação - [UFPA](https://github.com/codethi/breaking-news](https://sigaa.ufpa.br/sigaa/public/curso/curriculo.jsf?lc=pt_BR&id=148126))
 
