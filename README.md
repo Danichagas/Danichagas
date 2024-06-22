@@ -10,7 +10,7 @@
 
 - 📫Como chegar até mim **chagasdaniel788@gmail.com**
 
-- ⚡ Curiosidade **amo jogar vôlei🏐**
+- ⚡ Curiosidade: **amo jogar vôlei🏐**
 <hr/>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
