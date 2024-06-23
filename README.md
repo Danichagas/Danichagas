@@ -8,7 +8,7 @@
 
 - 💬 Pergunte-me sobre **NodeJs, ReactJs, TypeScript, SQL e noSQL**
 
-- 📫Como chegar até mim **chagasdaniel788@gmail.com**
+- 📫 Como chegar até mim **chagasdaniel788@gmail.com**
 
 - ⚡ Curiosidade: **amo jogar vôlei🏐**
 <hr/>
