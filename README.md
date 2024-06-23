@@ -2,9 +2,9 @@
 <h3 align="center">FullStack Developer, Universitário SI 👨‍🎓</h3>
 <hr>
 
-- 🔭 Atualmente estou cursando Sistemas de Informação - [UFPA](https://github.com/codethi/breaking-news](https://sigaa.ufpa.br/sigaa/public/curso/curriculo.jsf?lc=pt_BR&id=148126))
+- 🔭 Cursando Sistemas de Informação - [UFPA](https://github.com/codethi/breaking-news](https://sigaa.ufpa.br/sigaa/public/curso/curriculo.jsf?lc=pt_BR&id=148126))
 
-- 🌱 Atualmente estou aprendendo **Node.js**
+- 🌱 Atualmente estou aprendendo **TypeScript**
 
 - 💬 Pergunte-me sobre **NodeJs, ReactJs, TypeScript, SQL e noSQL**
 
