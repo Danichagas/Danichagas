@@ -12,6 +12,10 @@
 
 - ⚡ Curiosidade: **amo jogar vôlei🏐**
 <hr/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danichagas&hide_progress=true)
+<hr>
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-chagas-51a55b29b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
@@ -21,3 +25,4 @@
 <h3 align="left">Todas as linguagens e ferramentas:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,angular,tailwind,webpack,npm,nextjs,express,docker,mysql,postgres,java,spring,git,html,css)](https://skillicons.dev)
+<hr>
