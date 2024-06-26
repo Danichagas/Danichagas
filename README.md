@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprendendo **TypeScript**
 
-- 💬 Pergunte-me sobre **NodeJs, ReactJs, TypeScript, SQL e noSQL**
+- 💬 Apaixonado por **Desenvolvimento de Software**
 
 - 📫 Como chegar até mim **chagasdaniel788@gmail.com**
 
